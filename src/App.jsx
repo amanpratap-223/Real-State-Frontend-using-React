@@ -1,5 +1,5 @@
 import React from 'react';
-import About from './components/about'; 
+import About from './components/about';
 import Header from './components/Header';
 import Projects from './components/Projects';
 import Testimonials from './components/Testimonials';
